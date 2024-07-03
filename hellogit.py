@@ -1,1 +1,1 @@
-print("se vemos algunas cosas ")
+print("vamos a cambiar todos los print")
